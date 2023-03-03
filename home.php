@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+[<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -13,5 +13,7 @@
 
     <a href="zoekbalk.php"> <img src="WjhhVl59vCUAAAAASUVORK5CYII.png" id="vergrootglas"> </a>
 
+   ><img src="logo.webp" alt="logo"> </div>
+    
 </body>
 </html> 
