@@ -11,6 +11,6 @@
 <body>
     
 <a href="zoekbalk.php"> <img src="WjhhVl59vCUAAAAASUVORK5CYII.png" id="vergrootglas"> </a>
-<a href="home.php"> <img src="home.png" id="homebutton"> </a>
+<a href="home.php"> <img src="home.png" id="homebut"> </a>
 </body>
 </html>
