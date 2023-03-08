@@ -13,7 +13,7 @@
 
     <a href="zoekbalk.php"> <img src="WjhhVl59vCUAAAAASUVORK5CYII.png" id="vergrootglas"> </a>
 
-   ><img src="logo.webp" alt="logo"> </div>
+   <div><img src="logo.webp" alt="logo"> </div>
     
 </body>
 </html> 

@@ -1,7 +1,15 @@
 #vergrootglas {
     width: 40px;
     height: -150px;
-    position: relative;
+    position: absolute;
     left: 1475px;
+    border-radius: 10px;
+  }
+
+#homebutton {
+    width: 40px;
+    height: -150px;
+    position: absolute;
+    left: 1000px;
     border-radius: 10px;
   }
