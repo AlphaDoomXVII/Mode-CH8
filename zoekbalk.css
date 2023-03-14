@@ -7,13 +7,10 @@
   }
 
 #homebut {
-    width: 56px;
-    height: 56px;
+    width: 560px;
+    height: 560px;
     position: absolute;
     left: 1000px;
     border-radius: 10px;
   }
 
-  body {
-    background-color: blue;
-  }
