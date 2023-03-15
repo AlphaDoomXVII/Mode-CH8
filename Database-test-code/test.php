@@ -1,0 +1,1 @@
+<?=  $_POST['friend_id']; ?>
