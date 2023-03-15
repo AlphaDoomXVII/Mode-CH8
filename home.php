@@ -13,7 +13,11 @@
 
     <a href="zoekbalk.php"> <img src="WjhhVl59vCUAAAAASUVORK5CYII.png" id="vergrootglas"> </a>
 
+<<<<<<< Updated upstream
    <div><img src="logo.webp" alt="logo"> </div>
+=======
+ </div>  <img src="logo.webp" id="logo"></div>
+>>>>>>> Stashed changes
     
 </body>
 </html> 
