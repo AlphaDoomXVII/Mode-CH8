@@ -1,5 +1,7 @@
 #logo{
-    width: 0px;
-    height: 0px;
+    width: 100px;
+    height: 100px;
+    left: 30px;
+    top: 30px;
     position: absolute;
 }
